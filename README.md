@@ -27,3 +27,6 @@ Sentiment Analysis
 We propose a further inspection of the tasks presented by the datasets provided above. By combining the information and
 using advanced deep learning techniques, we will develop a more performant model relative to the ones already made for
 each of the tasks.
+
+# State of the art
+[State of the art link](https://docs.google.com/document/d/1iud52ZKx24cKfvqf3O-DBQvsLtUxXsx92sMDDL30gEg/edit)
